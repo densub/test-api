@@ -8,8 +8,4 @@ Available Scripts
 
 In the project directory, you can run:
 
-Available Scripts
-
-In the project directory, you can run:
-
 npm/yarn start
